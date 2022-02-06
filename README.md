@@ -8,7 +8,7 @@ Also, I have done many pieces of research and worked on different automation pro
 Skills: Python/Pandas/Scikit-learn/Jupyter NoteBook/Data visualization/Streamlit/Linux
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Pandas,  
+- 🌱 I’m currently learning Numpy,  
 - 📫 How to reach me: jannatultasnim786@gmail.com 
 - ⚡ Fun fact: I think I am lazy 
 
