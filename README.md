@@ -5,7 +5,7 @@
 I Am a Python Developer and Data analyst. Programming and working with Linux operating systems like Kali and Ubuntu is actually my passion. I never get bored while coding and learning something new.
 Also, I have done many pieces of research and worked on different automation projects using python over the year. 
 
-Skills: Python/Pandas/Scikit-learn/Jupyter NoteBook/Data visualization/Streamlit/Linux
+Skills: Python/Django/Pandas/Scikit-learn/Jupyter NoteBook/Data visualization/Streamlit/Linux
 
 - 🔭 I’m currently working on a Django project. 
 - 🌱 I’m currently learning Numpy,  
