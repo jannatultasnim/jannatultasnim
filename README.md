@@ -1,15 +1,23 @@
 ### Hi there 👋, My Name is Md Jannatul Tasnim
 #### A Passionate Python Developer and Data Analyst
 ![A Passionate Python Developer and Data Analyst](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
+Data Analyst | Python-Django-NumPy-Pandas-Scikit-learn Expert | Data Visualization Ninja
 
-I Am a Python Developer and Data analyst. Programming and working with Linux operating systems like Kali and Ubuntu is actually my passion. I never get bored while coding and learning something new.
-Also, I have done many pieces of research and worked on different automation projects using python over the year. 
+As a data analyst with expertise in SQL, Python-Django-NumPy-Pandas-Scikit-learn, and data visualization, I help businesses make informed decisions by uncovering insights hidden in their data.
 
-Skills: Python/Django/Pandas/Scikit-learn/Jupyter NoteBook/Data visualization/Streamlit/Linux
+With a strong background in ETL/ELT and database technologies such as PostgreSQL, MongoDB, and Snowflake, I am able to efficiently clean, transform, and analyze large datasets to deliver actionable insights. Additionally, my proficiency in dbt enables me to streamline the data modeling process for efficient data analysis.
 
-- 🔭 I’m currently working on a Django project. 
-- 🌱 I’m currently learning Numpy,  
-- 📫 How to reach me: jannatultasnim786@gmail.com 
+As a Linux enthusiast, I am familiar with the command line interface and comfortable working with different Unix-like operating systems.
+
+Whether it's building custom dashboards in Microsoft Office (Excel)-Power BI or Tableau, I am committed to presenting complex data in a visually appealing and understandable manner.
+
+If you're looking for a data analyst who can handle complex data problems with ease, don't hesitate to connect with me.
+
+Skills: Data Analysis, SQL, Python-Django-NumPy-Pandas-Scikit-learn-Data visualization-Data cleaning, ETL & ELT, Linux, Snowflake, PostgreSQL, MongoDB, dbt, Microsoft Office(Excel)-Power BI and Tableau.
+
+- 🔭 I’m currently working as a Junior Data Analyst. 
+- 🌱 I’m currently learning Data Engineering stacks,  
+- 📫 How to reach me: https://www.linkedin.com/in/md-jannatul-tasnim-b351b2178/
 - ⚡ Fun fact: I think I am lazy 
 
 <h3 align="left">Languages and Tools:</h3>
