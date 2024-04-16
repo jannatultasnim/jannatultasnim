@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Md Jannatul Tasnim
 #### A Passionate Python Developer and Data Analyst
 ![A Passionate Python Developer and Data Analyst](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
-Data Analyst | Python-Django-NumPy-Pandas-Scikit-learn Expert | Data Visualization Ninja
+Data Analyst | Python | SQL | Spark | Snowflake
 
 As a data analyst with expertise in SQL, Python-Django-NumPy-Pandas-Scikit-learn, and data visualization, I help businesses make informed decisions by uncovering insights hidden in their data.
 
