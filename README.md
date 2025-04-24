@@ -13,7 +13,7 @@ Whether it's building custom dashboards in Microsoft Office (Excel)-Power BI or 
 
 If you're looking for a data analyst who can handle complex data problems with ease, don't hesitate to connect with me.
 
-Skills: Data Analysis, SQL, Python-Django-NumPy-Pandas-Scikit-learn-Data visualization-Data cleaning, ETL & ELT, Linux, Snowflake, PostgreSQL, MongoDB, dbt, Microsoft Office(Excel)-Power BI and Tableau.
+Skills: Data Analysis, SQL, Python, ETL & ELT, Linux, Snowflake, PostgreSQL, MongoDB, Microsoft Office(Excel)-Power BI.
 
 - 🔭 I’m currently working as a Junior Data Analyst. 
 - 🌱 I’m currently learning Data Engineering stacks,  
